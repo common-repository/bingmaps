@@ -1,0 +1,301 @@
+# Copyright (C) 2023 MapView for Bing Maps
+# This file is distributed under the same license as the MapView for Bing Maps package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MapView for Bing Maps 1.4\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/bingmaps\n"
+"POT-Creation-Date: 2023-08-10 08:02:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2023-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+
+#: admin\bingmaps_manage_overview.php:49
+msgid "Shortcodes"
+msgstr ""
+
+#: admin\bingmaps_manage_overview.php:50
+msgid ""
+"BingMaps generates output to your Wordpress pages for the following "
+"shortcodes:"
+msgstr ""
+
+#: admin\bingmaps_manage_overview.php:54
+msgid "Shortcode"
+msgstr ""
+
+#: admin\bingmaps_manage_overview.php:55
+msgid "Description"
+msgstr ""
+
+#: admin\bingmaps_manage_overview.php:61
+msgid "Output a map"
+msgstr ""
+
+#: admin\bingmaps_manage_settings.php:157
+msgid "Settings have been saved."
+msgstr ""
+
+#: admin\bingmaps_manage_settings.php:162 include\mjslib_settingsadmin.php:65
+msgid "Settings have NOT been saved."
+msgstr ""
+
+#: admin\bingmaps_manage_settings.php:184 include\mjslib_settingsadmin.php:123
+msgid "No Settings Configured"
+msgstr ""
+
+#: bingmaps.php:272
+msgid "BingMaps Shortcode must specify centre Coordinates"
+msgstr ""
+
+#: bingmaps.php:279
+msgid "BingMaps Shortcode must specify BOTH centre Coordinates"
+msgstr ""
+
+#: bingmaps.php:443
+msgid "Overview"
+msgstr ""
+
+#: bingmaps.php:444
+msgid "Settings"
+msgstr ""
+
+#: bingmaps_translations.php:5
+msgid "Bing Maps Key"
+msgstr ""
+
+#: bingmaps_translations.php:6
+msgid "Block EMail Send"
+msgstr ""
+
+#: bingmaps_translations.php:7
+msgid "Debug To Log"
+msgstr ""
+
+#: bingmaps_translations.php:8
+msgid "Default Map Height"
+msgstr ""
+
+#: bingmaps_translations.php:9
+msgid "Default Map Width"
+msgstr ""
+
+#: bingmaps_translations.php:10
+msgid "Default Zoom"
+msgstr ""
+
+#: bingmaps_translations.php:11
+msgid "Enable PHP Debug"
+msgstr ""
+
+#: bingmaps_translations.php:12
+msgid "General"
+msgstr ""
+
+#: bingmaps_translations.php:13
+msgid "Locale"
+msgstr ""
+
+#: bingmaps_translations.php:14
+msgid "Log DB Changes"
+msgstr ""
+
+#: bingmaps_translations.php:15
+msgid "Log EMail Msgs"
+msgstr ""
+
+#: bingmaps_translations.php:16
+msgid "Record Log "
+msgstr ""
+
+#: bingmaps_translations.php:17
+msgid "Show DB Output"
+msgstr ""
+
+#: bingmaps_translations.php:18
+msgid "Show EMail Msgs"
+msgstr ""
+
+#: bingmaps_translations.php:19
+msgid "Show GET Vars"
+msgstr ""
+
+#: bingmaps_translations.php:20
+msgid "Show Memory Usage"
+msgstr ""
+
+#: bingmaps_translations.php:21
+msgid "Show POST Vars"
+msgstr ""
+
+#: bingmaps_translations.php:22
+msgid "Show SESSION Vars"
+msgstr ""
+
+#: bingmaps_translations.php:23
+msgid "Show SQL"
+msgstr ""
+
+#: include\mjslib_admin.php:310
+msgid "Search Sales"
+msgstr ""
+
+#: include\mjslib_adminlist.php:99
+msgid "Details"
+msgstr ""
+
+#: include\mjslib_adminlist.php:473 include\mjslib_adminlist.php:765
+#: include\mjslib_adminlist.php:800
+msgid "Yes"
+msgstr ""
+
+#: include\mjslib_adminlist.php:473 include\mjslib_adminlist.php:765
+#: include\mjslib_adminlist.php:800
+msgid "No"
+msgstr ""
+
+#: include\mjslib_adminlist.php:1198
+msgid "OK"
+msgstr ""
+
+#: include\mjslib_adminlist.php:1199 include\mjslib_settingsadmin.php:330
+msgid "Cancel"
+msgstr ""
+
+#: include\mjslib_dbase_api.php:576
+msgid "Session Debug Modes"
+msgstr ""
+
+#: include\mjslib_dbase_api.php:594
+msgid "SSL over HTTP"
+msgstr ""
+
+#: include\mjslib_dbase_api.php:1332
+msgid "Missing Conditional end marker"
+msgstr ""
+
+#: include\mjslib_dbase_api.php:1452
+msgid ""
+"WARNING: EMail Template contains one or mores lines with leading dots ('.')"
+msgstr ""
+
+#: include\mjslib_debug.php:182
+msgid "Enabled"
+msgstr ""
+
+#: include\mjslib_debug.php:182
+msgid "Disabled"
+msgstr ""
+
+#: include\mjslib_plugin.php:53
+msgid "not specified"
+msgstr ""
+
+#: include\mjslib_plugin.php:76
+msgid "NOnce Error"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:58
+msgid "Settings have been saved"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:133
+msgid "Save Changes"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:259
+msgid "Error parsing file."
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:281
+msgid "Error parsing HTML in file"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:329
+msgid "Save"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:338
+msgid "Subject"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:391
+msgid "Template not saved - Invalid Content"
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:416
+msgid "Template Not Saved - Could not rename file."
+msgstr ""
+
+#: include\mjslib_settingsadmin.php:464
+msgid "Template Updated."
+msgstr ""
+
+#: include\mjslib_table.php:202
+msgid "Show"
+msgstr ""
+
+#: include\mjslib_table.php:203
+msgid "Hide"
+msgstr ""
+
+#: include\mjslib_table.php:666
+msgid "Bulk Actions"
+msgstr ""
+
+#: include\mjslib_table.php:676
+msgid "Apply"
+msgstr ""
+
+#: include\mjslib_table.php:749
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: include\mjslib_table.php:765
+msgid "Go to the first page"
+msgstr ""
+
+#: include\mjslib_table.php:772
+msgid "Go to the previous page"
+msgstr ""
+
+#: include\mjslib_table.php:783
+msgid "Current page"
+msgstr ""
+
+#: include\mjslib_table.php:791
+msgid "of"
+msgstr ""
+
+#: include\mjslib_table.php:795
+msgid "Go to the next page"
+msgstr ""
+
+#: include\mjslib_table.php:802
+msgid "Go to the last page"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MapView for Bing Maps"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/extend/plugins/bingmaps/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds a map to a web page using the Bing Maps API"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Malcolm Shergold"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.corondeck.co.uk"
+msgstr ""
